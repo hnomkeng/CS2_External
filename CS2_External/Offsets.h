@@ -17,9 +17,9 @@ namespace Offset
 	{
 		DWORD Health = 0x32C;
 		DWORD TeamID = 0x3BF;
-		DWORD IsAlive = 0x7DC;
-		DWORD PlayerPawn = 0x5F4;
-		DWORD iszPlayerName = 0x628;
+		DWORD IsAlive = 0x7F4;
+		DWORD PlayerPawn = 0x7EC;
+		DWORD iszPlayerName = 0x640;
 	}Entity;
 
 	struct
